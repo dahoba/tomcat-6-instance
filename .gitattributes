@@ -1,0 +1,11 @@
+* text=auto
+
+*.cmd  eol=crlf
+*.c         eol=crlf
+*.h         eol=crlf
+*.cpp       eol=crlf
+*.rc        eol=crlf
+*.vcproj    eol=crlf
+*.bat       eol=crlf
+
+*.jar binary
